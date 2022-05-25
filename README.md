@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Calculator App</b>
-  - [Calculator Android Application using Java](https://github.com/Pretip/LABURL)
+- <b>Scientific Calculator App</b>
+  - [Android Scientific Calculator Application using Java](https://github.com/Pretip/Scientific-Calculator-App)
 
 <h2>📃 Certifications:</h2>
 
